@@ -1,9 +1,9 @@
-# 5. Basics (framework-specific)
+# 5. Basics (RAP-specific)
 
-## [SAP UI5 Documentation](https://sapui5.hana.ondemand.com/#/topic)
+[GB-P internal RAP Hands-On Material](https://bitbucket.org/erp-praktikum/rap-handson-travel-docs/src/main/part1/README.md)
 
-## [SAP UI5 API Reference](https://sapui5.hana.ondemand.com/#/api)
+SAPPress Book ABAP RESTful Programming Model (English)[^1]
 
-## [SAP UI5 Samples](https://sapui5.hana.ondemand.com/#/controls)
+SAPPress Book ABAP RESTful Programmiermodell (German)[^1]
 
-## [Fiori Design Guidelines](https://experience.sap.com/fiori-design-web/)
+[^1]: see folder"Meterial for Rapunzel".
