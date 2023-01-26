@@ -27,3 +27,11 @@
 - [6e. Architecture](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/001-specialist-skills/006e-Architecture.md)
 
 ---
+
+### [*Rap*unzel´s Skillset](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/002-rapunzels-skillset/007-Rapunzels-Skillset-Overview.md)
+
+- [Skillset (1/3)](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/002-rapunzels-skillset/007a-Rapunzels-Skillset-Nr-1.md)
+
+- [Skillset (2/3)](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/002-rapunzels-skillset/007b-Rapunzels-Skillset-Nr-2.md)
+
+- [Skillset (3/3)](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/002-rapunzels-skillset/007c-Rapunzels-Skillset-Nr-3.md)
