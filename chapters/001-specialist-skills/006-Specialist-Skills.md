@@ -1,6 +1,6 @@
 # 6. "Speicalist" Skills
 
-## [6a. RAP/EML Specialist](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/001-specialist-skills/006a-RAP-EML-Specialist.md)
+## [6a. *RAP*/EML Specialist](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/001-specialist-skills/006a-RAP-EML-Specialist.md)
 
 ## [6b. Performance Specialist](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/001-specialist-skills/006b-Performance-Specialist.md)
 
