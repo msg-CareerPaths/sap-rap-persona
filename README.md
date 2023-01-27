@@ -1,8 +1,8 @@
 # Sap-Rap-Persona
 
-## Context, Learning Paths and Skillset for SAP RAP Persona
+## Context, Learning Paths and Skillset for SAP *RAP*unzel Persona
 
-[**.msg|CareerPath**](https://msg-careerpaths.github.io/roadmap/#/) for the CAP-Persona
+[**.msg|CareerPath**](https://msg-careerpaths.github.io/roadmap/#/) for the *RAP*-Persona
 
 ---
 
