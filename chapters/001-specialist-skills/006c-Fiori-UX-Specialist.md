@@ -4,7 +4,7 @@ The design phase is a fundamental building stone of the Fiori paradigm – howev
 
 [Fiori Design Guidelines](https://experience.sap.com/fiori-design-web/)
 
-[Central Fiori Blog](https://blogs.sap.com/2021/03/31/sap-fiori-for-sap-s-4hana-recommendations-for-transitioning-users-from-sap-gui-to-sap-fiori/#:~:text=Intelligent%20Enterprise%20%5BST110%5D-,SAP%20Fiori%20is%20how%20the%20new%20business%20value%20of%20SAP,%2C%20laptop%2C%20tablet%2C%20smartphone))
+[Central Fiori Blog](https://blogs.sap.com/2021/03/31/sap-fiori-for-sap-s-4hana-recommendations-for-transitioning-users-from-sap-gui-to-sap-fiori/#:~:text=Intelligent%20Enterprise%20%5BST110%5D-,SAP%20Fiori%20is%20how%20the%20new%20business%20value%20of%20SAP,%2C%20laptop%2C%20tablet%2C%20smartphone)
 
 Figma to create Fiori Mock-Ups professionally:
 
