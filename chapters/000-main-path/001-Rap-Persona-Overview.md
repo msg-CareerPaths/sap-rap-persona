@@ -2,8 +2,6 @@
 
 ## Who is *Rap*unzel?
 
-![Rapunzel](https://raw.githubusercontent.com/msg-CareerPaths/sap-rap-persona/main/assets/Rapunzel.png)
-
 Rapunzel is new to the SAP world and very interessted in Back-End development. She wants to focus on the modern parts of ABAP programming within S/4HANA and the BTP, therefore she wants to get her hands dirty with the new ABAP RESTful Application Programming Model (*RAP*) and everything surrounding it.
 
 ## What is *Rap*unzel capable of?
