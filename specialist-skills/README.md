@@ -1,4 +1,4 @@
-# 6. "Speicalist" Skills
+# "Speicalist" Skills
 
 ## [*RAP*/EML Specialist](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/specialist-skills/a-RAP-EML-Specialist.md)
 
