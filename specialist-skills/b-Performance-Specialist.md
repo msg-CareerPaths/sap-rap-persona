@@ -1,4 +1,4 @@
-# 6b. Performance Specialist
+# Performance Specialist
 
 In each project performance is a non-functional implicit requirement and in each project a point in time is reached, when the loading of data takes to long. It is crucial to have someone, who gets a quick idea about the root cause, which often resides in accessing data of the HANA via CDS.
 
@@ -14,4 +14,4 @@ In each project performance is a non-functional implicit requirement and in each
 
 SAPPress Book SAP Performanceoptimierung (German)[^1]
 
-[^1]: see folder"Meterial for Rapunzel".
+[^1]: see folder "Material for Rapunzel".

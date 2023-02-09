@@ -1,4 +1,4 @@
-# 3. Getting started
+# Getting started
 
 [Download Eclipse, install the ABAP Development Tools (ADT) and optionally abapGit](https://developers.sap.com/tutorials/abap-install-adt.html)
 

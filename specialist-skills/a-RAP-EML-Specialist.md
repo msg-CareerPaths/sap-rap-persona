@@ -1,4 +1,4 @@
-# 6a. RAP/EML Specialist
+# RAP/EML Specialist
 
 In the project it is important to have someone with a deep undestanding of technical framework-specific details.
 
@@ -20,4 +20,4 @@ SAPPress Book ABAP RESTful Programmiermodell (German)[^1]
 
 [Central RAP blog](https://blogs.sap.com/2019/10/25/getting-started-with-the-abap-restful-programming-model/)
 
-[^1]: see folder"Meterial for Rapunzel".
+[^1]: see folder "Material for Rapunzel".

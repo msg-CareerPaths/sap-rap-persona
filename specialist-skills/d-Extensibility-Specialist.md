@@ -1,4 +1,4 @@
-# 6d. Extensibility Specialist
+# Extensibility Specialist
 
 Especially in customer projects, where existing SAP content and Fiori Apps is already available, there is need to enhance this world with individual solutions. To be aware of the possibilities in this area and how to achieve them is crucial for those projects.
 

@@ -1,4 +1,4 @@
-# 6c. Fiori/UX Specialist
+# Fiori/UX Specialist
 
 The design phase is a fundamental building stone of the Fiori paradigm – however in a lot of projects nevertheless implementation starts without taking too much thoughts about the concrete design to be implemented. Often because there is nobody, who is able to put himself in the shoes of the end user and discuss the advantages and disadvantages of certain UI options with the business colleagues.
 

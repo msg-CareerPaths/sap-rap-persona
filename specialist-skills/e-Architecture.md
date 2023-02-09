@@ -1,4 +1,4 @@
-# 6e. Architecture
+# Architecture
 
 The SAP ecosystem is huge and it is very important to have a very good overview over the whole ecosystem including the RAP framework itself, but also being able to challenge it against other possibilities.
 
