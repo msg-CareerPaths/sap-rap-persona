@@ -13,4 +13,7 @@
 - [Clean ABAP](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/003-Basics-(not-specific)/003c-Clean-ABAP.md)
 - [ABAP Unit Tests](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/003-Basics-(not-specific)/003d-ABAP-Unit-Tests.md)
 
-## [Basics (specific)](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/000-main-path/005-Basics-RAP-specific.md)
+## [Basics (specific)](https://github.com/msg-CareerPaths/sap-rap-persona/tree/main/chapters/004-Basics-(specific))
+
+- [GB-P internal RAP Hands-On Material](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/004-Basics-(specific)/004a-internal-Material.md)
+- [SAPPress Books](https://github.com/msg-CareerPaths/sap-rap-persona/blob/main/chapters/004-Basics-(specific)/004b-SAPPress.md)
