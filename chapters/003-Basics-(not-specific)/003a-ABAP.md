@@ -6,4 +6,4 @@
 
 [ABAP OO (object orientation)](https://bitbucket.org/erp-praktikum/abap-oo/src/main/README.md)
 
-[^1]: see folder"Meterial for Rapunzel".
+[^1]: see folder "Material for Rapunzel".

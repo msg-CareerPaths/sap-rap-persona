@@ -10,4 +10,4 @@
 
 Basic CDS examples[^1]
 
-[^1]: see folder"Meterial for Rapunzel".
+[^1]: see folder "Material for Rapunzel".

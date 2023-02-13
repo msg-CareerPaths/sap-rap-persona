@@ -6,4 +6,4 @@ CleanABAP Cheat Sheet[^1]
 
 Git Repository
 
-[^1]: see folder"Meterial for Rapunzel".
+[^1]: see folder "Material for Rapunzel".
